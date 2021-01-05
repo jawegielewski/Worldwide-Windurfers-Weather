@@ -25,7 +25,6 @@ import java.util.Map;
 @Validated
 @RequestMapping("/")
 @Scope(value = WebApplicationContext.SCOPE_REQUEST, proxyMode = ScopedProxyMode.TARGET_CLASS)
-@ComponentScan("pl.jawegiel.worldwidewindsurfersweather")
 public class MainController {
     
     private final LocationService locationService;
