@@ -1,5 +1,5 @@
 # WorldwideWindurfersWeather
-This application choose the best location to surf from five ones declared inside application. Api used for retrieving weather's forecast is taken from https://www.weatherbit.io/api/weather-forecast-16-day. The response as well as errors are served in JSON format.
+This application chooses the best location to surf from five ones declared inside application. Api used for retrieving weather's forecast is taken from https://www.weatherbit.io/api/weather-forecast-16-day. The response as well as errors are served in JSON format.
 
 To make this application it was used:
 
